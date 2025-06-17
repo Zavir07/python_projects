@@ -19,14 +19,14 @@ print("Sum:", total)
 a = 18
 b = 7
 rusalt = a - b
-print("subtractration",rusalt)
+print(f"subtractration",rusalt)
                              
 a = 10
 b = 2
 rusalt = a * b
-print ("multiplecation",rusalt)
+print (f"multiplecation",rusalt)
 
 a = 10
 b=2
 rusalt = a / b
-print("divition",rusalt)
+print(f"divition",rusalt)
